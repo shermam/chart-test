@@ -16,7 +16,6 @@ function draw() {
 
     angle += 1;
 
-
     requestAnimationFrame(draw);
 }
 
